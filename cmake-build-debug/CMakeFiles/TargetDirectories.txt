@@ -1,0 +1,3 @@
+G:/Open GL/Tasks/Task_5/cmake-build-debug/CMakeFiles/assignment5_team18.dir
+G:/Open GL/Tasks/Task_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Open GL/Tasks/Task_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
