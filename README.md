@@ -78,6 +78,12 @@ Use the arrow keys to navigate the car through the field of cubes and reach the 
 ## Contributors <a name = "contributors"></a>
 <table>
   <tr>
+        <td align="center">
+    <a href="https://github.com/AhmedKamalMohammedElSayed" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/96977876?v=4" width="150px;" alt="Ahmed Kamal"/>
+    <br />
+    <sub><b>Ahmed Kamal</b></sub></a>
+    </td>
     <td align="center">
     <a href="https://github.com/AbdulrahmanGhitani" target="_black">
     <img src="https://avatars.githubusercontent.com/u/114954706?v=4" width="150px;" alt="Abdulrahman Shawky"/>
@@ -90,13 +96,8 @@ Use the arrow keys to navigate the car through the field of cubes and reach the 
     <br />
     <sub><b>Omar Abdulnasser</b></sub></a>
     </td>
-         <td align="center">
-    <a href="https://github.com/AhmedKamalMohammedElSayed" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/96977876?v=4" width="150px;" alt="Ahmed Kamal"/>
-    <br />
-    <sub><b>Ahmed Kamal</b></sub></a>
-    </td>
-         <td align="center">
+    
+<td align="center">
     <a href="https://github.com/AbdullahOmran" target="_black">
     <img src="https://avatars.githubusercontent.com/u/30219936?v=4" width="150px;" alt="Abdullah Omran"/>
     <br />
